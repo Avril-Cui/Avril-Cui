@@ -17,10 +17,13 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 ![](https://img.shields.io/badge/Hosting-heroku-informational?style=flat&logo=heroku&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Hosting-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=C3FCC2)
 
+## &#x270d; Products and Projects
+Aspect is an educational website that gamifies the process of learning finance. Users could experience a dynamic stock market through trading, learning, and competing. Check out more about Aspect here: http://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com).
 
-
-
-
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Avril-Cui/Avril-Cui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=merko&show_icons=true />
+</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=merko&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=merko)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Avril-Cui&theme=merko)](https://git.io/streak-stats)
