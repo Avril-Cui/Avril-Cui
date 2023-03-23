@@ -23,7 +23,7 @@ Besides coding, I also write blog on Medium. Check it out here: https://medium.c
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Avril-Cui/Avril-Cui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=35.25" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=40.25" />
 </a>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=blueberry" />
