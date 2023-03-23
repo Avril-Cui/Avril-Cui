@@ -25,6 +25,7 @@ Besides coding, I also write blog on Medium. Check it out here: https://medium.c
 <a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=40.25" />
 </a>
+<div style="height: 50px">&nbsp;</div>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=blueberry" />
 </a>
