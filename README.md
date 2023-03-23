@@ -13,7 +13,6 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Framework-REDUX-informational?style=flat&logo=redux&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=C3FCC2)
-![](https://img.shields.io/badge/Blog-Medium-informational?style=flat&logo=medium&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Design-figma-informational?style=flat&logo=figma&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Hosting-heroku-informational?style=flat&logo=heroku&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Hosting-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=C3FCC2)
