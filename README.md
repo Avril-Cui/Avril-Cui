@@ -22,7 +22,10 @@ Aspect is an educational website that gamifies the process of learning finance. 
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Avril-Cui/Avril-Cui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=merko&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=27" />
+</a>
+<a href="https://github.com/Avril-Cui/Avril-Cui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=merko" />
 </a>
                            
 
