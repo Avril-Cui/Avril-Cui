@@ -21,7 +21,7 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 Aspect is an educational website that gamifies the process of learning finance. Users could experience a dynamic stock market through trading, learning, and competing. Check out more about Aspect here: http://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com).
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Avril-Cui/Avril-Cui" style={{height: "10em"}}>
+<a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=27" />
 </a>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
