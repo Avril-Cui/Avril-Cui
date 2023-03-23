@@ -16,6 +16,7 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 ![](https://img.shields.io/badge/Design-figma-informational?style=flat&logo=figma&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Hosting-heroku-informational?style=flat&logo=heroku&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Hosting-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=C3FCC2)
+<div></div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/postgresql/postgresql.png"></code>
