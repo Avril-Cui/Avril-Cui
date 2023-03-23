@@ -23,6 +23,6 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Avril-Cui&theme=blue-green)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=merko&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=merko)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Avril-Cui&theme=merko)](https://git.io/streak-stats)
