@@ -7,7 +7,6 @@ I am Avril Cui and I am a web and backend developer. I am from Shanghai, living 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=C3FCC2)
-![](https://img.shields.io/badge/Code-Latex-informational?style=flat&logo=latex&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=figma&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next.js&logoColor=white&color=C3FCC2)
