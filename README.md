@@ -1,7 +1,7 @@
 [![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")](http://www.aspect-game.com/)
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I am Avril Cui and I am a web and backend developer. I ofteh work with Python, Javascript, Typescript, SQL, and Go. I built Aspect [http://www.aspect-game.com/], a web-based game that educates people financial literacy and trading.
+I am Avril Cui， and I am a web and backend developer. I ofteh work with Python, Javascript, Typescript, SQL, and Go. I built Aspect [http://www.aspect-game.com/], a web-based game that educates people financial literacy and trading.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
