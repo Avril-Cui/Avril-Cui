@@ -1,7 +1,7 @@
 [![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")](http://www.aspect-game.com/)
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm Avril Cui. I think I can probably be called a "full-stack developer." I often work with languages such as Python, Javascript, Typescript, and SQL. I built Aspect [http://www.aspect-game.com/], a website that educates people financial literacy and trading through gaming.
+I'm Avril Cui. I am currently a high school student. I think I can probably be called a "full-stack developer." I often work with languages such as Python, Javascript, Typescript, and SQL.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
