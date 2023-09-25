@@ -26,7 +26,7 @@ I'm Avril Cui. I am currently a high school senior. I am probably a so-called "f
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 ## &#x270d; Products and Projects
-Aspect is an educational website that gamifies the process of learning finance. Users could experience a dynamic stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: http://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com). We welcome everyone interested in finance and programming!
+Aspect is an educational website that gamifies the process of learning finance. Users could experience a dynamic stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: http://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com). We welcome everyone interested in finance and programming! 
 Besides coding, I also write blog on Medium. Check my blog here: https://medium.com/@avrilcui17.
 
 ## &#x1f4c8; My GitHub Stats
