@@ -1,7 +1,7 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm Avril Cui. I am currently a high school senior. I am probably a so-called "full-stack developer." I often work with languages such as Python, Javascript, Typescript, and SQL.
+I'm Avril Cui. I am currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
