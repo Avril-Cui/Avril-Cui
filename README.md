@@ -33,13 +33,14 @@ I am Avril Cui. I am currently a high school senior. I consider myself as a so-c
 </ol>
 
 ## &#x1f4c8; My GitHub Stats
+<a href="https://github.com/Avril-Cui/Avril-Cui" style="marginTop: 100px;">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry" />
+</a>
+<div style="height: 50px">&nbsp;</div>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Avril-Cui&theme=blueberry&show_icons=true&line_height=40.25" />
 </a>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avril-Cui&theme=blueberry" />
 </a>
-<!-- <div style="height: 50px">&nbsp;</div> -->
-<a href="https://github.com/Avril-Cui/Avril-Cui" style="marginTop: 100px;">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry" />
-</a>
+
