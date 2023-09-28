@@ -3,6 +3,10 @@
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 I am Avril Cui. I am currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL.
 
+# Try My Work
+
+https://www.aspect-game.com/ is LIVE! Compete in Season One and win awards!
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C3FCC2)
