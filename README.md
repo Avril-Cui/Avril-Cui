@@ -1,7 +1,7 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm Avril Cui. I am currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL.
+I am Avril Cui. I am currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL.
 
 # Try My Work
 
@@ -31,7 +31,7 @@ https://www.aspect-game.com/ is LIVE! Compete in Season One and win awards!
 
 ## &#x270d; Products and Projects
 <ol>
-  <li>ASPECT: Aspect is an educational website that gamifies the process of learning finance. Users could experience a dynamic stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: http://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com). We welcome everyone interested in finance and programming. </li>
+  <li>ASPECT: Aspect is a website helping hundreds and thousands of users learn finance literacy and investment strategies by competing in a dynamic virtual economy. Users could experience an exceptional stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: https://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com). We welcome everyone interested in finance and programming. </li>
   <li>Personal Website: Check out my personal website here: acuvilr.one/li>
   <li>Blog: Besides coding, I also write blog on Medium. Check my blog here: https://medium.com/@avrilcui17.</li>
 </ol>
