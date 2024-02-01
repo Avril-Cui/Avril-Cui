@@ -1,7 +1,7 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I'm Avril Cui, and I'm currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL; trying to learn Java and C++ now.
+I'm Avril Cui, and I am currently a high school senior. I consider myself as a so-called "full-stack developer." I often work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL; trying to learn Java and C++ now.
 
 # Try My Work
 
