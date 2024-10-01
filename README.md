@@ -4,7 +4,7 @@
 I am Avril Cui. I am currently a first-year computer science student at MIT. I consider myself as a so-called "full-stack developer." I work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL; trying to learn more about Java now. I am interested in the field of software development, machine learning, and artificial intelligence.
 
 # Try My Work
-<p>Visit my personal website: https://acuvilr-avrilcuis-projects.vercel.app/</p>
+<p>Visit my personal website: https://acuvilr.one/</p>
 <p>https://www.aspect-game.com/ is LIVE! Compete in Season One and win awards!</p>
 
 ## 🔧 Technologies & Tools
