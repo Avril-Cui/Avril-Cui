@@ -5,7 +5,7 @@ I am Avril Cui. I am currently a first-year computer science student at MIT. I c
 
 # Try My Work
 <p>Visit my personal website: https://acuvilr.one/</p>
-<p>https://www.aspect-game.com/ is LIVE! Compete in Season One and win awards!</p>
+<p>Aspect, a platform that gamifies financial learning: https://www.aspect-game.com/</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
