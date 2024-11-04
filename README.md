@@ -1,11 +1,11 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-I am Avril Cui. I am currently a first-year computer science student at MIT. I consider myself as a so-called "full-stack developer." I work with languages such as Python, Javascript/HTML/CSS, Go, Typescript, and SQL. I am interested in software development, machine learning, and artificial intelligence.
+Hi there, I am Avril Cui, a first-year computer science student at MIT. I consider myself as a so-called "full-stack developer." I work with Python, Javascript/HTML/CSS, Go, Typescript, and SQL. I am interested in software development and ML&AI research/applications.
 
 # Try My Work
 <p>Visit my personal website: https://acuvilr.one/</p>
-<p>Aspect, a platform that gamifies financial learning: https://www.aspect-game.com/</p>
+<p>Try Aspect, a platform that gamifies financial learning: https://www.aspect-game.com/</p>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
@@ -31,7 +31,7 @@ I am Avril Cui. I am currently a first-year computer science student at MIT. I c
 
 ## &#x270d; Products and Projects
 <ol>
-  <li>ASPECT: Gamification. A website helping thousands of users learn finance literacy and investment strategies by competing in a dynamic virtual economy. Users could experience an exceptional stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: https://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (AvrilCui17@gmail.com). We welcome everyone interested in finance and programming. </li>
+  <li>ASPECT: Gamification. A website helping thousands of users learn finance literacy and investment strategies by competing in a dynamic virtual economy. Users could experience an exceptional stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: https://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (avrilcui17@gmail.com). We welcome everyone interested in finance and programming. </li>
   <li>Personal Website: Check out my personal website here: acuvilr.one/li>
   <li>Blog: Besides coding, I also write blogs on Medium. Check my blog here: https://medium.com/@avrilcui17.</li>
 </ol>
