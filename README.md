@@ -38,7 +38,7 @@ Hi there, I am Avril Cui, a first-year computer science student at MIT. I am a s
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/Avril-Cui/Avril-Cui" style="marginTop: 100px;">
-  <img align="center" src="[http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry](http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry#:~:text=Longest%20Streak-,Apr,-14%20%2D%20Apr%2027)" />
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry](http://github-readme-streak-stats.herokuapp.com/?user=Avril-Cui&theme=blueberry#:~:text=Longest%20Streak-,Apr,-14%20%2D%20Apr%2027" />
 </a>
 <div style="height: 50px">&nbsp;</div>
 <a href="https://github.com/Avril-Cui/Avril-Cui">
