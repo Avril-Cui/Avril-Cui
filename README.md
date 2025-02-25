@@ -32,7 +32,7 @@ Hi! I am Fuqi (Avril) Cui, a first-year computer science student at MIT. I am a 
 ## &#x270d; Products and Projects
 <ol>
   <li>ASPECT: Gamification. A website helping thousands of users learn finance literacy and investment strategies by competing in a dynamic virtual economy. Users could experience an exceptional stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: https://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (avrilcui17@gmail.com). We welcome everyone interested in finance and programming. </li>
-  <li>Personal Website: Check out my personal website here: acuvilr.one/li>
+  <li>Personal Website: Check out my personal website here: acuvilr.one </li>
   <li>Blog: Besides coding, I also write blogs on Medium. Check my blog here: https://medium.com/@avrilcui17.</li>
 </ol>
 
