@@ -1,7 +1,7 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
 # Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-Hi! I am Fuqi (Avril) Cui, a first-year computer science student at MIT. I am a so-called "full-stack developer" - I work with Python, Next.js, Typescript, and SQL. I am interested in software development and ML&AI research/applications.
+Hi! I am Avril Cui, a first-year computer science student at MIT. I am a so-called "full-stack developer" - I work with Python, Next.js, Typescript, and SQL. I am interested in software development and ML&AI research/applications.
 
 # Try My Work
 <p>Visit my personal website: https://acuvilr.one/</p>
