@@ -1,12 +1,5 @@
 ![Header](https://github.com/Avril-Cui/Avril-Cui/blob/main/MyHeader.png "Header")
 
-# Hello, Visitors! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-Hi! I am Avril Cui, a first-year computer science student at MIT. I am a so-called "full-stack developer" - I work with Python, Next.js, Typescript, and SQL. I am interested in software development and ML&AI research/applications.
-
-# Try My Work
-<p>Visit my personal website: https://acuvilr.one/</p>
-<p>Try Aspect, a platform that gamifies financial learning: https://www.aspect-game.com/</p>
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=C3FCC2)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C3FCC2)
@@ -28,10 +21,4 @@ Hi! I am Avril Cui, a first-year computer science student at MIT. I am a so-call
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-## &#x270d; Products and Projects
-<ol>
-  <li>ASPECT: Gamification. A website helping thousands of users learn finance literacy and investment strategies by competing in a dynamic virtual economy. Users could experience an exceptional stock market in the game through trading, learning, and competing. Check out more about the content and details of Aspect here: https://www.aspect-game.com/game. If you want to collaborate with me on this project, contact me (avrilcui17@gmail.com). Learn more about the stock price simulator and market ask-and-bid mechanism here: https://acuvilr.one/projects/aspect</li>
-  <li>Personal Website: Check out my personal website here: acuvilr.one </li>
-</ol>
 
